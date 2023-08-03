@@ -91,7 +91,7 @@ function CartDiscounts({discountCodes}) {
             placeholder="Discount code"
           />
           <button className="flex justify-end font-medium whitespace-nowrap">
-            Apply Discount Test
+            Apply Discount
           </button>
         </div>
       </UpdateDiscountForm>
